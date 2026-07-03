@@ -1,8 +1,7 @@
----  
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCP-Connector-orange?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
@@ -23,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9&ring_color=00FF9F" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0" height="180" alt="Top Languages"/>
 </p>
 
