@@ -22,12 +22,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&icon_color=BD93F9" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdolfoLecompteDev&theme=tokyonight" alt="Summary Card"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdolfoLecompteDev&theme=radical&hide_border=true&background=0D1117&ring=00FF9F&fire=00D9FF&currStreakLabel=E0E0E0" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdolfoLecompteDev&bg_color=0D1117&color=00D9FF&line=00FF9F&point=E0E0E0&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
