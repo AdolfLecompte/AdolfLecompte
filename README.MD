@@ -30,6 +30,19 @@
 
 ---
 
+<!-- GitHub Stats & Streak Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=E0E0E0&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdolfoLecompteDev&background=0D1117&title=00D9FF&ring=00FF9F&fire=00FF9F&text=E0E0E0&stroke=00000000&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
+
+<!-- Top Languages Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=E0E0E0&hide_border=true" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
 <p align="center">
   <a href="mailto:adolfo.lecompte@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
