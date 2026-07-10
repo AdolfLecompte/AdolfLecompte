@@ -1,10 +1,5 @@
 ---
 <p align="center">
-  <img src="./profile-card.svg" alt="AdolfoLecompteDev Card" width="100%" max-width="800px"/>
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/MCP-Connector-orange?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
