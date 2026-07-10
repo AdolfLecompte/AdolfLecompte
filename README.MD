@@ -1,4 +1,8 @@
 ---
+<p align="center">
+  <img src="./profile-card.svg" alt="AdolfoLecompteDev Card" width="100%" max-width="800px"/>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCP-Connector-orange?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
