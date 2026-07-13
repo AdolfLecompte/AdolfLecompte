@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdolfoLecompteDev&bg_color=0D1117&color=00D9FF&line=00FF9F&point=E0E0E0&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdolfLecompte&bg_color=0D1117&color=00D9FF&line=00FF9F&point=E0E0E0&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 <!-- Top Languages Section Corregida -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoLecompteDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfLecompte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
 ---
