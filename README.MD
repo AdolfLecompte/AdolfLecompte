@@ -32,8 +32,8 @@
 
 <!-- GitHub Stats & Streak Section Corregida -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdolfoLecompteDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdolfoLecompteDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdolfLecompte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdolfLecompte&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
 <!-- Top Languages Section Corregida -->
