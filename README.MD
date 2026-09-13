@@ -1,9 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Adolfo%20Lecompte&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Automation%20%C2%B7%20Linux%20ricer&descAlignY=60&descSize=16" alt="header"/>
-</p>
+```text
+ ████   █████    ████   ██      ██████
+██  ██  ██  ██  ██  ██  ██      ██
+██████  ██  ██  ██  ██  ██      █████
+██  ██  ██  ██  ██  ██  ██      ██
+██  ██  █████    ████   ██████  ██
+──────────────────────────────────────
+  full-stack dev · automation · arch + hyprland
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Next.js+%2B+TypeScript+%2B+Prisma;Python+bots+%26+data+automation;Hyprland+%2B+Quickshell+desktop+shells;Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&background=0D1117&center=false&vCenter=true&multiline=false&width=620&height=50&lines=adolf%40arch%3A~%24+whoami;%3E+Adolfo+Lecompte;adolf%40arch%3A~%24+cat+role.txt;%3E+Full-stack+developer+%C2%B7+Automation;adolf%40arch%3A~%24+neofetch+--wm;%3E+Hyprland+%2B+Quickshell+%28ashen%29" alt="terminal"/>
 </p>
 
 <p align="center">
@@ -25,8 +31,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,astro,tailwind,prisma&perline=8" alt="web"/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,laravel,postgres,mysql,supabase,docker&perline=8" alt="backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,supabase,docker,godot,blender&perline=8" alt="backend"/><br/>
   <img src="https://skillicons.dev/icons?i=linux,arch,qt,git,github,vscode&perline=8" alt="tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
 ### 🚀 Featured projects
@@ -75,6 +87,3 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="footer"/>
-</p>
