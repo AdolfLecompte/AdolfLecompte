@@ -9,7 +9,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&background=0D1117&center=false&vCenter=true&multiline=false&width=620&height=50&lines=adolf%40arch%3A~%24+whoami;%3E+Adolfo+Lecompte;adolf%40arch%3A~%24+cat+role.txt;%3E+Full-stack+developer+%C2%B7+Automation;adolf%40arch%3A~%24+neofetch+--wm;%3E+Hyprland+%2B+Quickshell+%28ashen%29" alt="terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&background=0D1117&center=false&vCenter=true&multiline=false&width=620&height=50&lines=adolf%40arch%3A~%24+whoami;%3E+Adolfo+Lecompte;adolf%40arch%3A~%24+cat+role.txt;%3E+Full-stack+developer+%C2%B7+Automation;adolf%40arch%3A~%24+fastfetch+--wm;%3E+Hyprland+%2B+Quickshell+%28ashen%29" alt="terminal"/>
 </p>
 
 <p align="center">
