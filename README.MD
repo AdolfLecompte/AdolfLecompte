@@ -34,9 +34,10 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,tailwind,prisma&perline=7" alt="web"/><br/>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,postgres,mysql,supabase,docker,godot,blender&perline=9" alt="backend"/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,arch,qt,lua,git,github,vercel,vscode&perline=8" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,nestjs,tailwind,prisma&perline=8" alt="web"/><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pandas,numpy,sklearn,postgres,mysql,supabase&perline=8" alt="backend y datos"/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,arch,hyprland,bash,md,git,github,vscode&perline=8" alt="tools"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,qt,lua,godot,blender&perline=6" alt="otros"/>
 </p>
 
 <p align="center">
@@ -45,6 +46,7 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
 </p>
 
 ### 🚀 Featured projects
