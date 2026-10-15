@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdolfLecompte&theme=github_dark" alt="stats" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdolfLecompte&theme=github_dark" alt="languages" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdolfLecompte&theme=github_dark" alt="languages by commits" width="49%"/>
 </p>
 
 <p align="center">
