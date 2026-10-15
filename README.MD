@@ -35,12 +35,15 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,nestjs,tailwind,prisma&perline=8" alt="web"/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pandas,numpy,sklearn,postgres,mysql,supabase&perline=8" alt="backend y datos"/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,arch,hyprland,bash,md,git,github,vscode&perline=8" alt="tools"/><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,postgres,mysql,supabase&perline=6" alt="backend y datos"/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,md,git,github,vscode&perline=7" alt="tools"/><br/>
   <img src="https://skillicons.dev/icons?i=docker,vercel,qt,lua,godot,blender&perline=6" alt="otros"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland"/>
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
