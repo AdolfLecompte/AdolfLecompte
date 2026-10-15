@@ -6,7 +6,7 @@
         ██╔══██╗██╔══██╗██╔═══██╗██║     ██╔════╝
       ███████║██║  ██║██║   ██║██║     █████╗
       ██╔══██║██║  ██║██║   ██║██║     ██╔══╝
-   ██║  ██║██████╔╝╚██████╔╝███████╗██║
+    ██║  ██║██████╔╝╚██████╔╝███████╗██║
    ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚═╝
 &nbsp;
      ── linux enjoyer · open-source developer ──
@@ -34,8 +34,8 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,astro,tailwind,prisma&perline=8" alt="web"/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,supabase,docker,godot,blender&perline=8" alt="backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nestjs,tailwind,prisma&perline=7" alt="web"/><br/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,postgres,mysql,supabase,docker,godot,blender&perline=9" alt="backend"/><br/>
   <img src="https://skillicons.dev/icons?i=linux,arch,qt,lua,git,github,vercel,vscode&perline=8" alt="tools"/>
 </p>
 
