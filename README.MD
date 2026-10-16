@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Adolf · Open Source Developer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdolfLecompte/AdolfLecompte/raw/samsara/samsara-dark.gif">
+    <img alt="samsara.exe" src="https://github.com/AdolfLecompte/AdolfLecompte/raw/samsara/samsara.gif" width="100%">
+  </picture>
 </p>
 
 <p align="center">
