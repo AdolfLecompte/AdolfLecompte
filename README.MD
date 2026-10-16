@@ -1,19 +1,9 @@
-<div align="center">
-<pre>
-░▒▓████████████████████████████████████████████████▓▒░
-&nbsp;
-       █████╗ ██████╗  ██████╗ ██╗     ███████╗
-      ██╔══██╗██╔══██╗██╔═══██╗██║     ██╔════╝
-      ███████║██║  ██║██║   ██║██║     █████╗
-      ██╔══██║██║  ██║██║   ██║██║     ██╔══╝
-      ██║  ██║██████╔╝╚██████╔╝███████╗██║
-      ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚═╝
-&nbsp;
-     ── linux enjoyer · open-source developer ──
-&nbsp;
-░▒▓████████████████████████████████████████████████▓▒░
-</pre>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdolfLecompte/AdolfLecompte/raw/samsara/samsara-dark.gif">
+    <img alt="samsara.exe" src="https://github.com/AdolfLecompte/AdolfLecompte/raw/samsara/samsara.gif">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&background=0D1117&center=false&vCenter=true&multiline=false&width=620&height=50&lines=adolf%40arch%3A~%24+whoami;%3E+Adolfo+Lecompte;adolf%40arch%3A~%24+cat+role.txt;%3E+Full-stack+developer+%C2%B7+Automation;adolf%40arch%3A~%24+fastfetch+--wm;%3E+Hyprland+%2B+Quickshell+%28ashen%29" alt="terminal"/>
