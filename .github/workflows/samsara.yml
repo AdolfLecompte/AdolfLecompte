@@ -1,0 +1,24 @@
+name: samsara.exe
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # una vez al día
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  samsara:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: RchrdAriza/samsara-exe@main # landscape aún no está en el tag v1
+        with:
+          user: AdolfLecompte
+          palette: amber
+          dot: 3
+          layout: landscape
+          name_style: shade
+          name_deco: columns
+          tagline: "Open Source Developer"
+          timezone: "America/Bogota"
