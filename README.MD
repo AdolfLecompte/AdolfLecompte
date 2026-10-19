@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,nestjs,tailwind,prisma&perline=8" alt="web"/><br/>
   <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,postgres,mysql,supabase&perline=6" alt="backend y datos"/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,md,git,github,vscode&perline=7" alt="tools"/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,md,git,github,vscode,obsidian&perline=8" alt="tools"/><br/>
   <img src="https://skillicons.dev/icons?i=docker,vercel,qt,lua,godot,blender&perline=6" alt="otros"/>
 </p>
 
